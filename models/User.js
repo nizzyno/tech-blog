@@ -15,6 +15,7 @@ User.init(
     // define an id column
     id: {
       type: DataTypes.INTEGER,
+      // equivalent of SQL "NOT NULL"
       allowNull: false,
       primaryKey: true,
       autoIncrement: true,
