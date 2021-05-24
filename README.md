@@ -1,4 +1,4 @@
-# Tech Blog
+# Tech Blog - https://immense-journey-64895.herokuapp.com
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
